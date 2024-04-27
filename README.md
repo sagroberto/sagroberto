@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I'm currently working on becoming better step by step.
 - 🌱 I’m exploring the wild world of development.
-- :diamond: I'm a rough diamond, help me polish myself to shine brighter.
+- :small_blue_diamond:  I'm a rough diamond, help me polish myself to shine brighter.
 
 
